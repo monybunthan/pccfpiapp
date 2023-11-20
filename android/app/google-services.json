@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517880595971",
+    "project_id": "pccfpi-f8ce0",
+    "storage_bucket": "pccfpi-f8ce0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517880595971:android:8de6f21148faeabf4a3036",
+        "android_client_info": {
+          "package_name": "com.example.pccfpi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517880595971-ks0bftqlimdnchm977glq138r3pkdhmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSRajeQD_qmCQw2Z3tKnNe-KRvWCSMIIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517880595971-ks0bftqlimdnchm977glq138r3pkdhmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

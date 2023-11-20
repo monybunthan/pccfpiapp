@@ -1,0 +1,34 @@
+{
+    "nameSchool": "WELCOME",
+    "@language": {
+        "description": "The current language"
+    },
+    "helloWorld": "CAMBODIA-CHINA FRIENDSHIP POLYTECHNIC INSTITUTE, PREAH SIHANOUK PROVINCE",
+    "@helloWorld": {
+        "description": "A programmer greeting"
+    },
+    "discrib": "NOTE: THIS IS THE DISSERTATION OF THE STUDENTS OF THE CAMBODIA-CHINA FRIENDSHIP POLYTECHNIC INSTITUTE IN SIHANOUKVILLE, BUT THIS PROGRAM IS FOR LEARNING SOME OF THE THINGS THAT ARE IN THE SCHOOL ONLY. THANK YOU!",
+    "@discrib": {
+        "description": " Descrip"
+    },
+    "res": "REGISTER",
+    "@res": {
+        "description": "REGISTER"
+    },
+    "skip": "SKIP",
+    "@skip": {
+        "description": "REGISTER"
+    },
+    "readmore": "Tip: You can also use this app without registration by clicking the Skip button. If you have a GOOGLE account, just click on the button above.",
+    "@readmore": {
+        "description": "Tip: You can also use this app without registration by clicking the Skip button. If you have a GOOGLE account, just click on the button above."
+    },
+    "showmore": "SHOW MORE",
+    "@showmore": {
+        "description": "REGISTER"
+    },
+    "showless": "SHOW LESS",
+    "@showless": {
+        "description": "REGISTER"
+    }
+}
